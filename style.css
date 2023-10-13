@@ -28,3 +28,13 @@ body{
     background-color: white;
     border: 10px solid black;
 }
+@media(max-width:576px){
+    .div-style{
+        background-color: rgb(115, 247, 247);
+        padding: 25px;
+        border-radius: 5px;
+        height: 250px;
+        width: 350px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+    }
+}
